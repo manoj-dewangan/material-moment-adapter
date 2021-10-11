@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "github:angular/material2-moment-adapter-builds",
+      "/home/manojkumar/WEB/tray-web-ordering"
+    ]
+  ],
+  "_development": true,
+  "_from": "github:angular/material2-moment-adapter-builds",
+  "_id": "@angular/material-moment-adapter@github:angular/material2-moment-adapter-builds#8303b58e66ebfcb734282bafc9c784033fa2b090",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@angular/material-moment-adapter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:angular/material2-moment-adapter-builds",
+    "rawSpec": "github:angular/material2-moment-adapter-builds",
+    "saveSpec": "github:angular/material2-moment-adapter-builds",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "github:angular/material2-moment-adapter-builds#8303b58e66ebfcb734282bafc9c784033fa2b090",
+  "_spec": "github:angular/material2-moment-adapter-builds",
+  "_where": "/home/manojkumar/WEB/tray-web-ordering",
+  "bugs": {
+    "url": "https://github.com/angular/components/issues"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "description": "Angular Material Moment Adapter",
+  "es2015": "./fesm2015/material-moment-adapter.js",
+  "esm2015": "./esm2015/index.js",
+  "fesm2015": "./fesm2015/material-moment-adapter.js",
+  "homepage": "https://github.com/angular/components#readme",
+  "license": "MIT",
+  "main": "./bundles/material-moment-adapter.umd.js",
+  "module": "./fesm2015/material-moment-adapter.js",
+  "name": "@angular/material-moment-adapter",
+  "ng-update": {
+    "packageGroup": [
+      "@angular/material",
+      "@angular/cdk",
+      "@angular/material-moment-adapter"
+    ]
+  },
+  "peerDependencies": {
+    "@angular/material": "10.1.0-next.0-sha-d9b223879",
+    "@angular/core": "^10.0.0 || ^11.0.0-0",
+    "moment": "^2.18.1"
+  },
+  "publishConfig": {
+    "registry": "https://wombat-dressing-room.appspot.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/components.git"
+  },
+  "sideEffects": false,
+  "typings": "./index.d.ts",
+  "version": "10.1.0-next.0-sha-d9b223879"
+}
